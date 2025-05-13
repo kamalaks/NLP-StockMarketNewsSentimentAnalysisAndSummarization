@@ -10,14 +10,14 @@ As a member of the Data Science and AI team in the startup, you have been tasked
 
 **Data Dictionary**
 
-Date : The date the news was released
-News : The content of news articles that could potentially affect the company's stock price
-Open : The stock price (in $) at the beginning of the day
-High : The highest stock price (in $) reached during the day
-Low : The lowest stock price (in $) reached during the day
-Close : The adjusted stock price (in $) at the end of the day
-Volume : The number of shares traded during the day
-Label : The sentiment polarity of the news content
-1: positive
-0: neutral
--1: negative
+- Date : The date the news was released
+- News : The content of news articles that could potentially affect the company's stock price
+- Open : The stock price (in $) at the beginning of the day
+- High : The highest stock price (in $) reached during the day
+- Low : The lowest stock price (in $) reached during the day
+- Close : The adjusted stock price (in $) at the end of the day
+- Volume : The number of shares traded during the day
+- Label : The sentiment polarity of the news content
+    - 1: positive
+    - 0: neutral
+    - -1: negative
